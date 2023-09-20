@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelColorBot", "PixelColorBot\PixelColorBot.csproj", "{62E44A5E-DA44-4B31-A3D5-154C40044742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62E44A5E-DA44-4B31-A3D5-154C40044742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E44A5E-DA44-4B31-A3D5-154C40044742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E44A5E-DA44-4B31-A3D5-154C40044742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E44A5E-DA44-4B31-A3D5-154C40044742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5612C24F-C0E3-4743-9314-EBDE62F2533A}
+	EndGlobalSection
+EndGlobal
